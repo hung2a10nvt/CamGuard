@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<bot_token>"yourBotToken"</bot_token>
+<chat_id>"yourChatId"</chat_id>
+</opencv_storage>
